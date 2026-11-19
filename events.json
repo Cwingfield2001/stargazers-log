@@ -1,0 +1,20 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "url": "https://github.com/octocat/Hello-World",
+    "starred_at": "2024-01-15"
+  },
+  {
+    "name": "sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starred_at": "2024-02-20"
+  },
+  {
+    "name": "sindresorhus/ky",
+    "description": "Tiny and elegant HTTP client based on the Fetch API.",
+    "url": "https://github.com/sindresorhus/ky",
+    "starred_at": "2024-03-08"
+  }
+]
